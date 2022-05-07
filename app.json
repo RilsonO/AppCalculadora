@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "AppCalculadora",
+    "slug": "AppCalculadora",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "AppCalculadora"
+}
